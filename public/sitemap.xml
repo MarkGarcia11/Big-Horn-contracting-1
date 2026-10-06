@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://YOUR-DOMAIN.example/</loc></url>
+  <url><loc>https://YOUR-DOMAIN.example/services</loc></url>
+  <url><loc>https://YOUR-DOMAIN.example/services/concrete</loc></url>
+  <url><loc>https://YOUR-DOMAIN.example/services/block</loc></url>
+  <url><loc>https://YOUR-DOMAIN.example/services/stucco</loc></url>
+  <url><loc>https://YOUR-DOMAIN.example/services/remodeling</loc></url>
+  <url><loc>https://YOUR-DOMAIN.example/services/cleanup-hauling</loc></url>
+  <url><loc>https://YOUR-DOMAIN.example/projects</loc></url>
+  <url><loc>https://YOUR-DOMAIN.example/about</loc></url>
+  <url><loc>https://YOUR-DOMAIN.example/process</loc></url>
+  <url><loc>https://YOUR-DOMAIN.example/service-areas</loc></url>
+  <url><loc>https://YOUR-DOMAIN.example/reviews</loc></url>
+  <url><loc>https://YOUR-DOMAIN.example/faq</loc></url>
+  <url><loc>https://YOUR-DOMAIN.example/contact</loc></url>
+  <url><loc>https://YOUR-DOMAIN.example/privacy</loc></url>
+  <url><loc>https://YOUR-DOMAIN.example/terms</loc></url>
+</urlset>
